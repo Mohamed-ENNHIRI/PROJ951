@@ -54,6 +54,7 @@ to the questions. Questions cover the whole course.
 |---|---|---|---|
 | CM1 | Notebook 0: Python introduction | [python_intro.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/PROJ951/blob/main/notebooks/python_intro.ipynb) | [python_intro.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/PROJ951/blob/main/notebooks/corrections/python_intro.ipynb) |
 | TD1 | The bill and the energy balance, school case | [td1_bill_and_balance.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/PROJ951/blob/main/notebooks/td1_bill_and_balance.ipynb) | [td1_bill_and_balance.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/PROJ951/blob/main/notebooks/corrections/td1_bill_and_balance.ipynb) |
+| TD2 | Time value of money | [td2_time_value.ipynb](https://colab.research.google.com/github/Mohamed-ENNHIRI/PROJ951/blob/main/notebooks/td2_time_value.ipynb) | after the session |
 
 Before running anything: **File, Save a copy in Drive**. Without a copy, your
 work is lost when the tab closes.
